@@ -72,6 +72,11 @@ var buy = function () {
                 if (err) throw err;
 
                 console.log("Product purchased!");
+                console.log("Summary");
+                console.log("-----------------------");
+                console.log("Item Purchased: " + userItem.product_name);
+                console.log("Quantity Purchased: " + parseInt(quantity));
+                console.log("Total Price: $ " + (userItem.price * parseInt(quantity)));
                 buy();
             });
         } else {
