@@ -10,11 +10,17 @@
 <li> Users will be able to purchase any of the products as long as there is sufficient quantity in stock. If there is not enough quantity in stock, the user will not be able to purchase the item. </li>
 </ul>
 
+<img src="img-1.png"> 
+
 <h4> Additional Parts </h4> 
 
 <ul> 
 <li> Another display of the application is the Manager View. This display allows managers to view all the products for sale and check the inventory for those products. If the stock quantity is low they can add more inventory as well as add any new products for sale. </li>
 </ul> 
+
+<img src="img-2.png"> 
+<img src="img-3.png"> 
+
 
 <br>
 <br>
